@@ -58,6 +58,13 @@ retroarch.exe -L helloworld_libretro.dll
 
 No content/ROM file is needed as this core supports running without content.
 
+### Shortcut
+```shell
+make build run
+```
+<img width="1072" height="860" alt="image" src="https://github.com/user-attachments/assets/f608a209-7034-4652-b0cc-d50ef0d8e178" />
+
+Then `> Start core`
 <img width="1072" height="860" alt="Screenshot 2025-11-28 at 11 57 48 PM" src="https://github.com/user-attachments/assets/1edd9ea2-667d-407e-b5c2-5dfbd701a78a" />
 
 

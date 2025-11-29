@@ -76,7 +76,3 @@ The core implements all required libretro API functions:
 ## License
 
 This project is provided as a sample/demo implementation for educational purposes.
-
-## Author
-
-Created as a demonstration of libretro core development in Go.

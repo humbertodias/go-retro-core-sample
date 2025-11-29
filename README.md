@@ -11,7 +11,7 @@ A simple "Hello World" libretro core written in Go. This core demonstrates how t
 
 ## Requirements
 
-- Go 1.21 or later
+- Go 1.25 or later
 - GCC or compatible C compiler (for CGO)
 - Make (optional, for using the Makefile)
 
@@ -57,6 +57,9 @@ retroarch.exe -L helloworld_libretro.dll
 ```
 
 No content/ROM file is needed as this core supports running without content.
+
+<img width="1072" height="860" alt="Screenshot 2025-11-28 at 11 57 48 PM" src="https://github.com/user-attachments/assets/1edd9ea2-667d-407e-b5c2-5dfbd701a78a" />
+
 
 ## Technical Details
 
